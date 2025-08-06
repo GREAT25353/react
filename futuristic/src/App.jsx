@@ -1,9 +1,12 @@
-
+import Chai from "./Chai"
 function App() {
   
   return (
-    <h1>Chai aur react with vite | Akash</h1>
+    <>
+    <h3>Love you</h3>
+    <Chai/>
+    <h2>Brave new world</h2>
+    </>
   )
 }
-
 export default App
